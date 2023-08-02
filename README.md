@@ -1,0 +1,4 @@
+- 👋 Oi,eu me chamo @Tech95LuTi
+- 👀 Estou interessado em desenvolver aplicações em python, Java, e aplicações web: HTML, CSS, JS, PHP e SQL...
+- 🌱 Sou estudante de TI - Software e Hardware
+- 💞️ Espero colaborar com meus conhecimentos para a comunidade
